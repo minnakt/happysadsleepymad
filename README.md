@@ -1,6 +1,6 @@
 # happysadsleepymad
 
-This is an adapted version of a private repo.
+This is an adapted version of a private repo. As such some code has been omitted.
 
 # Poster / Results 
 ![download](https://user-images.githubusercontent.com/47064971/58680914-f34f2100-8337-11e9-9bc2-d05afcdc3ebf.png)
