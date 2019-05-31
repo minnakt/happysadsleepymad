@@ -1,13 +1,13 @@
-# happysadsleepymad
+# HappySadSleepyMad 😊😢😴😤
 
 This is an adapted version of a private repo. As such some code has been omitted.
 
-# Poster / Results 
+## Poster / Results 
 ![download](https://user-images.githubusercontent.com/47064971/58680914-f34f2100-8337-11e9-9bc2-d05afcdc3ebf.png)
 <br></br>
 High quality version can be seen as a PDF at https://github.com/minnakt/happysadsleepymad/blob/master/final_poster.pdf.
 
-# Blog 
+## Blog 
 More detailed information about the project process can be found here:
 - Part 1: https://medium.com/@happysadsleepymad/emojis-patterns-in-text-brown-cs1951a-blog-post-1-eee079c6f436
 - Part 2: https://medium.com/@happysadsleepymad/blog-post-2-43017b9698fb
@@ -15,16 +15,16 @@ More detailed information about the project process can be found here:
 
 If a summary is required, I recommend to read Part 3 only; there are some interesting results not included on the poster included on there. 
 
-# Tweet Database
+## Tweet Database
 https://drive.google.com/file/d/1Bt_KnTEvEh1LbtU-GKYKfMVYYYYSeYAV/view?usp=sharing
 
-# Acknowledgements 
+## Acknowledgements 
 This project could not have been completed without the following lovely and brilliant women:
 - Katherine Sang (https://github.com/artset) 💛
 - Iris Yao (https://github.com/iris0301) 🧡
 - Maggie Wu (https://github.com/maggie1059) 💙
 
-# Resources
+## Resources
 Sources for creating the emoji json data:
 - https://github.com/iamcal/emoji-data 
 - https://github.com/amio/emoji.json 
