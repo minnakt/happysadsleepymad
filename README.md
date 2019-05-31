@@ -3,6 +3,8 @@
 This is an adapted version of a private repo. As such it lacks much of the code used to complete the project.
 
 ### Poster / Results ### 
+![download](https://user-images.githubusercontent.com/47064971/58680914-f34f2100-8337-11e9-9bc2-d05afcdc3ebf.png)
+High quality version can be seen as a PDF at https://github.com/minnakt/happysadsleepymad/blob/master/final_poster.pdf.
 
 ### Blog ###
 More detailed information about the project process can be found here:
