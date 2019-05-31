@@ -1,0 +1,1699 @@
+{
+    "emoji": [
+        {
+            "emoji": "👄",
+            "keywords": "lips | mouth",
+            "name": "mouth",
+            "unified": "1F444",
+            "unicode": [
+                "U+1F444"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "👊",
+            "keywords": "clenched | fist | hand | oncoming fist | punch",
+            "name": "oncoming fist",
+            "unified": "1F44A",
+            "unicode": [
+                "U+1F44A"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -1
+        },
+        {
+            "emoji": "👌",
+            "keywords": "hand | OK",
+            "name": "OK hand",
+            "unified": "1F44C",
+            "unicode": [
+                "U+1F44C"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "👍",
+            "keywords": "+1 | hand | thumb | thumbs up | up",
+            "name": "thumbs up",
+            "unified": "1F44D",
+            "unicode": [
+                "U+1F44D"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "👎",
+            "keywords": "-1 | down | hand | thumb | thumbs down",
+            "name": "thumbs down",
+            "unified": "1F44E",
+            "unicode": [
+                "U+1F44E"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -2
+        },
+        {
+            "emoji": "👏",
+            "keywords": "clap | clapping hands | hand",
+            "name": "clapping hands",
+            "unified": "1F44F",
+            "unicode": [
+                "U+1F44F"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "👻",
+            "keywords": "creature | face | fairy tale | fantasy | ghost | monster",
+            "name": "ghost",
+            "unified": "1F47B",
+            "unicode": [
+                "U+1F47B"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -1
+        },
+        {
+            "emoji": "👿",
+            "keywords": "angry face with horns | demon | devil | face | fantasy | imp",
+            "name": "angry face with horns",
+            "unified": "1F47F",
+            "unicode": [
+                "U+1F47F"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -4
+        },
+        {
+            "emoji": "💀",
+            "keywords": "death | face | fairy tale | monster | skull",
+            "name": "skull",
+            "unified": "1F480",
+            "unicode": [
+                "U+1F480"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -2
+        },
+        {
+            "emoji": "💋",
+            "keywords": "kiss | kiss mark | lips",
+            "name": "kiss mark",
+            "unified": "1F48B",
+            "unicode": [
+                "U+1F48B"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "💓",
+            "keywords": "beating | beating heart | heartbeat | pulsating",
+            "name": "beating heart",
+            "unified": "1F493",
+            "unicode": [
+                "U+1F493"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "💔",
+            "keywords": "break | broken | broken heart",
+            "name": "broken heart",
+            "unified": "1F494",
+            "unicode": [
+                "U+1F494"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -3
+        },
+        {
+            "emoji": "💕",
+            "keywords": "love | two hearts",
+            "name": "two hearts",
+            "unified": "1F495",
+            "unicode": [
+                "U+1F495"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "💖",
+            "keywords": "excited | sparkle | sparkling heart",
+            "name": "sparkling heart",
+            "unified": "1F496",
+            "unicode": [
+                "U+1F496"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "💗",
+            "keywords": "excited | growing | growing heart | nervous | pulse",
+            "name": "growing heart",
+            "unified": "1F497",
+            "unicode": [
+                "U+1F497"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "💘",
+            "keywords": "arrow | cupid | heart with arrow",
+            "name": "heart with arrow",
+            "unified": "1F498",
+            "unicode": [
+                "U+1F498"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "💙",
+            "keywords": "blue | blue heart",
+            "name": "blue heart",
+            "unified": "1F499",
+            "unicode": [
+                "U+1F499"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "💚",
+            "keywords": "green | green heart",
+            "name": "green heart",
+            "unified": "1F49A",
+            "unicode": [
+                "U+1F49A"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "💛",
+            "keywords": "yellow | yellow heart",
+            "name": "yellow heart",
+            "unified": "1F49B",
+            "unicode": [
+                "U+1F49B"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "💜",
+            "keywords": "purple | purple heart",
+            "name": "purple heart",
+            "unified": "1F49C",
+            "unicode": [
+                "U+1F49C"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "💝",
+            "keywords": "heart with ribbon | ribbon | valentine",
+            "name": "heart with ribbon",
+            "unified": "1F49D",
+            "unicode": [
+                "U+1F49D"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "💞",
+            "keywords": "revolving | revolving hearts",
+            "name": "revolving hearts",
+            "unified": "1F49E",
+            "unicode": [
+                "U+1F49E"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "💩",
+            "keywords": "dung | face | monster | pile of poo | poo | poop",
+            "name": "pile of poo",
+            "unified": "1F4A9",
+            "unicode": [
+                "U+1F4A9"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -3
+        },
+        {
+            "emoji": "💯",
+            "keywords": "100 | full | hundred | hundred points | score",
+            "name": "hundred points",
+            "unified": "1F4AF",
+            "unicode": [
+                "U+1F4AF"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "🖕",
+            "keywords": "finger | hand | middle finger",
+            "name": "middle finger",
+            "unified": "1F595",
+            "unicode": [
+                "U+1F595"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -4
+        },
+        {
+            "emoji": "🖤",
+            "keywords": "black | black heart | evil | wicked",
+            "name": "black heart",
+            "unified": "1F5A4",
+            "unicode": [
+                "U+1F5A4"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "😀",
+            "keywords": "face | grin | grinning face",
+            "name": "grinning face",
+            "unified": "1F600",
+            "unicode": [
+                "U+1F600"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "😁",
+            "keywords": "beaming face with smiling eyes | eye | face | grin | smile",
+            "name": "beaming face with smiling eyes",
+            "unified": "1F601",
+            "unicode": [
+                "U+1F601"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "😂",
+            "keywords": "face | face with tears of joy | joy | laugh | tear",
+            "name": "face with tears of joy",
+            "unified": "1F602",
+            "unicode": [
+                "U+1F602"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "😃",
+            "keywords": "face | grinning face with big eyes | mouth | open | smile",
+            "name": "grinning face with big eyes",
+            "unified": "1F603",
+            "unicode": [
+                "U+1F603"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "😄",
+            "keywords": "eye | face | grinning face with smiling eyes | mouth | open | smile",
+            "name": "grinning face with smiling eyes",
+            "unified": "1F604",
+            "unicode": [
+                "U+1F604"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "😅",
+            "keywords": "cold | face | grinning face with sweat | open | smile | sweat",
+            "name": "grinning face with sweat",
+            "unified": "1F605",
+            "unicode": [
+                "U+1F605"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "😆",
+            "keywords": "face | grinning squinting face | laugh | mouth | satisfied | smile",
+            "name": "grinning squinting face",
+            "unified": "1F606",
+            "unicode": [
+                "U+1F606"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 1
+        },
+        {
+            "emoji": "😇",
+            "keywords": "angel | face | fantasy | halo | innocent | smiling face with halo",
+            "name": "smiling face with halo",
+            "unified": "1F607",
+            "unicode": [
+                "U+1F607"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "😈",
+            "keywords": "face | fairy tale | fantasy | horns | smile | smiling face with horns",
+            "name": "smiling face with horns",
+            "unified": "1F608",
+            "unicode": [
+                "U+1F608"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -3
+        },
+        {
+            "emoji": "😉",
+            "keywords": "face | wink | winking face",
+            "name": "winking face",
+            "unified": "1F609",
+            "unicode": [
+                "U+1F609"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "😊",
+            "keywords": "blush | eye | face | smile | smiling face with smiling eyes",
+            "name": "smiling face with smiling eyes",
+            "unified": "1F60A",
+            "unicode": [
+                "U+1F60A"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "😋",
+            "keywords": "delicious | face | face savoring food | savouring | smile | yum",
+            "name": "face savoring food",
+            "unified": "1F60B",
+            "unicode": [
+                "U+1F60B"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "😌",
+            "keywords": "face | relieved",
+            "name": "relieved face",
+            "unified": "1F60C",
+            "unicode": [
+                "U+1F60C"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "😍",
+            "keywords": "eye | face | love | smile | smiling face with heart-eyes",
+            "name": "smiling face with heart-eyes",
+            "unified": "1F60D",
+            "unicode": [
+                "U+1F60D"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "😎",
+            "keywords": "bright | cool | face | smiling face with sunglasses | sun | sunglasses",
+            "name": "smiling face with sunglasses",
+            "unified": "1F60E",
+            "unicode": [
+                "U+1F60E"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 1
+        },
+        {
+            "emoji": "😏",
+            "keywords": "face | smirk | smirking face",
+            "name": "smirking face",
+            "unified": "1F60F",
+            "unicode": [
+                "U+1F60F"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "😐",
+            "keywords": "deadpan | face | meh | neutral",
+            "name": "neutral face",
+            "unified": "1F610",
+            "unicode": [
+                "U+1F610"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "😑",
+            "keywords": "expressionless | face | inexpressive | meh | unexpressive",
+            "name": "expressionless face",
+            "unified": "1F611",
+            "unicode": [
+                "U+1F611"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "😒",
+            "keywords": "face | unamused | unhappy",
+            "name": "unamused face",
+            "unified": "1F612",
+            "unicode": [
+                "U+1F612"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -2
+        },
+        {
+            "emoji": "😓",
+            "keywords": "cold | downcast face with sweat | face | sweat",
+            "name": "downcast face with sweat",
+            "unified": "1F613",
+            "unicode": [
+                "U+1F613"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -1
+        },
+        {
+            "emoji": "😔",
+            "keywords": "dejected | face | pensive",
+            "name": "pensive face",
+            "unified": "1F614",
+            "unicode": [
+                "U+1F614"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -1
+        },
+        {
+            "emoji": "😕",
+            "keywords": "confused | face | meh",
+            "name": "confused face",
+            "unified": "1F615",
+            "unicode": [
+                "U+1F615"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -2
+        },
+        {
+            "emoji": "😖",
+            "keywords": "confounded | face",
+            "name": "confounded face",
+            "unified": "1F616",
+            "unicode": [
+                "U+1F616"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -2
+        },
+        {
+            "emoji": "😗",
+            "keywords": "face | kiss | kissing face",
+            "name": "kissing face",
+            "unified": "1F617",
+            "unicode": [
+                "U+1F617"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "😘",
+            "keywords": "face | face blowing a kiss | kiss",
+            "name": "face blowing a kiss",
+            "unified": "1F618",
+            "unicode": [
+                "U+1F618"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "😙",
+            "keywords": "eye | face | kiss | kissing face with smiling eyes | smile",
+            "name": "kissing face with smiling eyes",
+            "unified": "1F619",
+            "unicode": [
+                "U+1F619"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "😚",
+            "keywords": "closed | eye | face | kiss | kissing face with closed eyes",
+            "name": "kissing face with closed eyes",
+            "unified": "1F61A",
+            "unicode": [
+                "U+1F61A"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "😛",
+            "keywords": "face | face with tongue | tongue",
+            "name": "face with tongue",
+            "unified": "1F61B",
+            "unicode": [
+                "U+1F61B"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 1
+        },
+        {
+            "emoji": "😜",
+            "keywords": "eye | face | joke | tongue | wink | winking face with tongue",
+            "name": "winking face with tongue",
+            "unified": "1F61C",
+            "unicode": [
+                "U+1F61C"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -1
+        },
+        {
+            "emoji": "😝",
+            "keywords": "eye | face | horrible | squinting face with tongue | taste | tongue",
+            "name": "squinting face with tongue",
+            "unified": "1F61D",
+            "unicode": [
+                "U+1F61D"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "😞",
+            "keywords": "disappointed | face",
+            "name": "disappointed face",
+            "unified": "1F61E",
+            "unicode": [
+                "U+1F61E"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -2
+        },
+        {
+            "emoji": "😟",
+            "keywords": "face | worried",
+            "name": "worried face",
+            "unified": "1F61F",
+            "unicode": [
+                "U+1F61F"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -3
+        },
+        {
+            "emoji": "😠",
+            "keywords": "angry | face | mad",
+            "name": "angry face",
+            "unified": "1F620",
+            "unicode": [
+                "U+1F620"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -3
+        },
+        {
+            "emoji": "😡",
+            "keywords": "angry | face | mad | pouting | rage | red",
+            "name": "pouting face",
+            "unified": "1F621",
+            "unicode": [
+                "U+1F621"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -4
+        },
+        {
+            "emoji": "😢",
+            "keywords": "cry | crying face | face | sad | tear",
+            "name": "crying face",
+            "unified": "1F622",
+            "unicode": [
+                "U+1F622"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -2
+        },
+        {
+            "emoji": "😣",
+            "keywords": "face | persevere | persevering face",
+            "name": "persevering face",
+            "unified": "1F623",
+            "unicode": [
+                "U+1F623"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -2
+        },
+        {
+            "emoji": "😤",
+            "keywords": "face | face with steam from nose | triumph | won",
+            "name": "face with steam from nose",
+            "unified": "1F624",
+            "unicode": [
+                "U+1F624"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "😥",
+            "keywords": "disappointed | face | relieved | sad but relieved face | whew",
+            "name": "sad but relieved face",
+            "unified": "1F625",
+            "unicode": [
+                "U+1F625"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -1
+        },
+        {
+            "emoji": "😦",
+            "keywords": "face | frown | frowning face with open mouth | mouth | open",
+            "name": "frowning face with open mouth",
+            "unified": "1F626",
+            "unicode": [
+                "U+1F626"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -1
+        },
+        {
+            "emoji": "😧",
+            "keywords": "anguished | face",
+            "name": "anguished face",
+            "unified": "1F627",
+            "unicode": [
+                "U+1F627"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -3
+        },
+        {
+            "emoji": "😨",
+            "keywords": "face | fear | fearful | scared",
+            "name": "fearful face",
+            "unified": "1F628",
+            "unicode": [
+                "U+1F628"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -2
+        },
+        {
+            "emoji": "😩",
+            "keywords": "face | tired | weary",
+            "name": "weary face",
+            "unified": "1F629",
+            "unicode": [
+                "U+1F629"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -2
+        },
+        {
+            "emoji": "😪",
+            "keywords": "face | sleep | sleepy face",
+            "name": "sleepy face",
+            "unified": "1F62A",
+            "unicode": [
+                "U+1F62A"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "😫",
+            "keywords": "face | tired",
+            "name": "tired face",
+            "unified": "1F62B",
+            "unicode": [
+                "U+1F62B"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -2
+        },
+        {
+            "emoji": "😬",
+            "keywords": "face | grimace | grimacing face",
+            "name": "grimacing face",
+            "unified": "1F62C",
+            "unicode": [
+                "U+1F62C"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -2
+        },
+        {
+            "emoji": "😭",
+            "keywords": "cry | face | loudly crying face | sad | sob | tear",
+            "name": "loudly crying face",
+            "unified": "1F62D",
+            "unicode": [
+                "U+1F62D"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -3
+        },
+        {
+            "emoji": "😮",
+            "keywords": "face | face with open mouth | mouth | open | sympathy",
+            "name": "face with open mouth",
+            "unified": "1F62E",
+            "unicode": [
+                "U+1F62E"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -2
+        },
+        {
+            "emoji": "😯",
+            "keywords": "face | hushed | stunned | surprised",
+            "name": "hushed face",
+            "unified": "1F62F",
+            "unicode": [
+                "U+1F62F"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -1
+        },
+        {
+            "emoji": "😰",
+            "keywords": "anxious face with sweat | blue | cold | face | rushed | sweat",
+            "name": "anxious face with sweat",
+            "unified": "1F630",
+            "unicode": [
+                "U+1F630"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -2
+        },
+        {
+            "emoji": "😱",
+            "keywords": "face | face screaming in fear | fear | munch | scared | scream",
+            "name": "face screaming in fear",
+            "unified": "1F631",
+            "unicode": [
+                "U+1F631"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -3
+        },
+        {
+            "emoji": "😲",
+            "keywords": "astonished | face | shocked | totally",
+            "name": "astonished face",
+            "unified": "1F632",
+            "unicode": [
+                "U+1F632"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "😳",
+            "keywords": "dazed | face | flushed",
+            "name": "flushed face",
+            "unified": "1F633",
+            "unicode": [
+                "U+1F633"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -2
+        },
+        {
+            "emoji": "😴",
+            "keywords": "face | sleep | sleeping face | zzz",
+            "name": "sleeping face",
+            "unified": "1F634",
+            "unicode": [
+                "U+1F634"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "😵",
+            "keywords": "dizzy | face",
+            "name": "dizzy face",
+            "unified": "1F635",
+            "unicode": [
+                "U+1F635"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -1
+        },
+        {
+            "emoji": "😶",
+            "keywords": "face | face without mouth | mouth | quiet | silent",
+            "name": "face without mouth",
+            "unified": "1F636",
+            "unicode": [
+                "U+1F636"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "😷",
+            "keywords": "cold | doctor | face | face with medical mask | mask | sick",
+            "name": "face with medical mask",
+            "unified": "1F637",
+            "unicode": [
+                "U+1F637"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -1
+        },
+        {
+            "emoji": "😸",
+            "keywords": "cat | eye | face | grin | grinning cat face with smiling eyes | smile",
+            "name": "grinning cat face with smiling eyes",
+            "unified": "1F638",
+            "unicode": [
+                "U+1F638"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "😹",
+            "keywords": "cat | cat face with tears of joy | face | joy | tear",
+            "name": "cat face with tears of joy",
+            "unified": "1F639",
+            "unicode": [
+                "U+1F639"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "😺",
+            "keywords": "cat | face | grinning cat face | mouth | open | smile",
+            "name": "grinning cat face",
+            "unified": "1F63A",
+            "unicode": [
+                "U+1F63A"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "😻",
+            "keywords": "cat | eye | face | love | smile | smiling cat face with heart-eyes",
+            "name": "smiling cat face with heart-eyes",
+            "unified": "1F63B",
+            "unicode": [
+                "U+1F63B"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "😼",
+            "keywords": "cat | cat face with wry smile | face | ironic | smile | wry",
+            "name": "cat face with wry smile",
+            "unified": "1F63C",
+            "unicode": [
+                "U+1F63C"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "😽",
+            "keywords": "cat | eye | face | kiss | kissing cat face",
+            "name": "kissing cat face",
+            "unified": "1F63D",
+            "unicode": [
+                "U+1F63D"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "😾",
+            "keywords": "cat | face | pouting",
+            "name": "pouting cat face",
+            "unified": "1F63E",
+            "unicode": [
+                "U+1F63E"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -4
+        },
+        {
+            "emoji": "😿",
+            "keywords": "cat | cry | crying cat face | face | sad | tear",
+            "name": "crying cat face",
+            "unified": "1F63F",
+            "unicode": [
+                "U+1F63F"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -2
+        },
+        {
+            "emoji": "🙀",
+            "keywords": "cat | face | oh | surprised | weary",
+            "name": "weary cat face",
+            "unified": "1F640",
+            "unicode": [
+                "U+1F640"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -3
+        },
+        {
+            "emoji": "🙁",
+            "keywords": "face | frown | slightly frowning face",
+            "name": "slightly frowning face",
+            "unified": "1F641",
+            "unicode": [
+                "U+1F641"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -1
+        },
+        {
+            "emoji": "🙂",
+            "keywords": "face | slightly smiling face | smile",
+            "name": "slightly smiling face",
+            "unified": "1F642",
+            "unicode": [
+                "U+1F642"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 1
+        },
+        {
+            "emoji": "🙃",
+            "keywords": "face | upside-down",
+            "name": "upside-down face",
+            "unified": "1F643",
+            "unicode": [
+                "U+1F643"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🙄",
+            "keywords": "eyeroll | eyes | face | face with rolling eyes | rolling",
+            "name": "face with rolling eyes",
+            "unified": "1F644",
+            "unicode": [
+                "U+1F644"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -1
+        },
+        {
+            "emoji": "🙌",
+            "keywords": "celebration | gesture | hand | hooray | raised | raising hands",
+            "name": "raising hands",
+            "unified": "1F64C",
+            "unicode": [
+                "U+1F64C"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 4
+        },
+        {
+            "emoji": "🙏",
+            "keywords": "ask | folded hands | hand | please | pray | thanks",
+            "name": "folded hands",
+            "unified": "1F64F",
+            "unicode": [
+                "U+1F64F"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 1
+        },
+        {
+            "emoji": "🤐",
+            "keywords": "face | mouth | zipper | zipper-mouth face",
+            "name": "zipper-mouth face",
+            "unified": "1F910",
+            "unicode": [
+                "U+1F910"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -1
+        },
+        {
+            "emoji": "🤑",
+            "keywords": "face | money | money-mouth face | mouth",
+            "name": "money-mouth face",
+            "unified": "1F911",
+            "unicode": [
+                "U+1F911"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🤒",
+            "keywords": "face | face with thermometer | ill | sick | thermometer",
+            "name": "face with thermometer",
+            "unified": "1F912",
+            "unicode": [
+                "U+1F912"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -1
+        },
+        {
+            "emoji": "🤓",
+            "keywords": "face | geek | nerd",
+            "name": "nerd face",
+            "unified": "1F913",
+            "unicode": [
+                "U+1F913"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -1
+        },
+        {
+            "emoji": "🤔",
+            "keywords": "face | thinking",
+            "name": "thinking face",
+            "unified": "1F914",
+            "unicode": [
+                "U+1F914"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -1
+        },
+        {
+            "emoji": "🤕",
+            "keywords": "bandage | face | face with head-bandage | hurt | injury",
+            "name": "face with head-bandage",
+            "unified": "1F915",
+            "unicode": [
+                "U+1F915"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -2
+        },
+        {
+            "emoji": "🤗",
+            "keywords": "face | hug | hugging",
+            "name": "hugging face",
+            "unified": "1F917",
+            "unicode": [
+                "U+1F917"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "🤝",
+            "keywords": "agreement | hand | handshake | meeting | shake",
+            "name": "handshake",
+            "unified": "1F91D",
+            "unicode": [
+                "U+1F91D"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 1
+        },
+        {
+            "emoji": "🤞",
+            "keywords": "cross | crossed fingers | finger | hand | luck",
+            "name": "crossed fingers",
+            "unified": "1F91E",
+            "unicode": [
+                "U+1F91E"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "🤠",
+            "keywords": "cowboy | cowgirl | face | hat",
+            "name": "cowboy hat face",
+            "unified": "1F920",
+            "unicode": [
+                "U+1F920"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 2
+        },
+        {
+            "emoji": "🤡",
+            "keywords": "clown | face",
+            "name": "clown face",
+            "unified": "1F921",
+            "unicode": [
+                "U+1F921"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🤢",
+            "keywords": "face | nauseated | vomit",
+            "name": "nauseated face",
+            "unified": "1F922",
+            "unicode": [
+                "U+1F922"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -2
+        },
+        {
+            "emoji": "🤣",
+            "keywords": "face | floor | laugh | rolling | rolling on the floor laughing",
+            "name": "rolling on the floor laughing",
+            "unified": "1F923",
+            "unicode": [
+                "U+1F923"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 4
+        },
+        {
+            "emoji": "🤤",
+            "keywords": "drooling | face",
+            "name": "drooling face",
+            "unified": "1F924",
+            "unicode": [
+                "U+1F924"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🤥",
+            "keywords": "face | lie | lying face | pinocchio",
+            "name": "lying face",
+            "unified": "1F925",
+            "unicode": [
+                "U+1F925"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -2
+        },
+        {
+            "emoji": "🤧",
+            "keywords": "face | gesundheit | sneeze | sneezing face",
+            "name": "sneezing face",
+            "unified": "1F927",
+            "unicode": [
+                "U+1F927"
+            ],
+            "category": "Smileys & People",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": -2
+        }
+    ]
+}

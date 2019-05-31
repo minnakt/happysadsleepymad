@@ -1,0 +1,1609 @@
+{
+    "emoji": [
+        {
+            "emoji": "🌱",
+            "keywords": "seedling | young",
+            "name": "seedling",
+            "unified": "1F331",
+            "unicode": [
+                "U+1F331"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🌲",
+            "keywords": "evergreen tree | tree",
+            "name": "evergreen tree",
+            "unified": "1F332",
+            "unicode": [
+                "U+1F332"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🌳",
+            "keywords": "deciduous | shedding | tree",
+            "name": "deciduous tree",
+            "unified": "1F333",
+            "unicode": [
+                "U+1F333"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🌴",
+            "keywords": "palm | tree",
+            "name": "palm tree",
+            "unified": "1F334",
+            "unicode": [
+                "U+1F334"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🌵",
+            "keywords": "cactus | plant",
+            "name": "cactus",
+            "unified": "1F335",
+            "unicode": [
+                "U+1F335"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🌷",
+            "keywords": "flower | tulip",
+            "name": "tulip",
+            "unified": "1F337",
+            "unicode": [
+                "U+1F337"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🌸",
+            "keywords": "blossom | cherry | flower",
+            "name": "cherry blossom",
+            "unified": "1F338",
+            "unicode": [
+                "U+1F338"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🌹",
+            "keywords": "flower | rose",
+            "name": "rose",
+            "unified": "1F339",
+            "unicode": [
+                "U+1F339"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🌺",
+            "keywords": "flower | hibiscus",
+            "name": "hibiscus",
+            "unified": "1F33A",
+            "unicode": [
+                "U+1F33A"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🌻",
+            "keywords": "flower | sun | sunflower",
+            "name": "sunflower",
+            "unified": "1F33B",
+            "unicode": [
+                "U+1F33B"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🌼",
+            "keywords": "blossom | flower",
+            "name": "blossom",
+            "unified": "1F33C",
+            "unicode": [
+                "U+1F33C"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🌾",
+            "keywords": "ear | grain | rice | sheaf of rice",
+            "name": "sheaf of rice",
+            "unified": "1F33E",
+            "unicode": [
+                "U+1F33E"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🌿",
+            "keywords": "herb | leaf",
+            "name": "herb",
+            "unified": "1F33F",
+            "unicode": [
+                "U+1F33F"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🍀",
+            "keywords": "4 | clover | four | four-leaf clover | leaf",
+            "name": "four leaf clover",
+            "unified": "1F340",
+            "unicode": [
+                "U+1F340"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🍁",
+            "keywords": "falling | leaf | maple",
+            "name": "maple leaf",
+            "unified": "1F341",
+            "unicode": [
+                "U+1F341"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🍂",
+            "keywords": "fallen leaf | falling | leaf",
+            "name": "fallen leaf",
+            "unified": "1F342",
+            "unicode": [
+                "U+1F342"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🍃",
+            "keywords": "blow | flutter | leaf | leaf fluttering in wind | wind",
+            "name": "leaf fluttering in wind",
+            "unified": "1F343",
+            "unicode": [
+                "U+1F343"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐀",
+            "keywords": "rat",
+            "name": "rat",
+            "unified": "1F400",
+            "unicode": [
+                "U+1F400"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐁",
+            "keywords": "mouse",
+            "name": "mouse",
+            "unified": "1F401",
+            "unicode": [
+                "U+1F401"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐂",
+            "keywords": "bull | ox | Taurus | zodiac",
+            "name": "ox",
+            "unified": "1F402",
+            "unicode": [
+                "U+1F402"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐃",
+            "keywords": "buffalo | water",
+            "name": "water buffalo",
+            "unified": "1F403",
+            "unicode": [
+                "U+1F403"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐄",
+            "keywords": "cow",
+            "name": "cow",
+            "unified": "1F404",
+            "unicode": [
+                "U+1F404"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐅",
+            "keywords": "tiger",
+            "name": "tiger",
+            "unified": "1F405",
+            "unicode": [
+                "U+1F405"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐆",
+            "keywords": "leopard",
+            "name": "leopard",
+            "unified": "1F406",
+            "unicode": [
+                "U+1F406"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐇",
+            "keywords": "bunny | pet | rabbit",
+            "name": "rabbit",
+            "unified": "1F407",
+            "unicode": [
+                "U+1F407"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐈",
+            "keywords": "cat | pet",
+            "name": "cat",
+            "unified": "1F408",
+            "unicode": [
+                "U+1F408"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐉",
+            "keywords": "dragon | fairy tale",
+            "name": "dragon",
+            "unified": "1F409",
+            "unicode": [
+                "U+1F409"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐊",
+            "keywords": "crocodile",
+            "name": "crocodile",
+            "unified": "1F40A",
+            "unicode": [
+                "U+1F40A"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐋",
+            "keywords": "whale",
+            "name": "whale",
+            "unified": "1F40B",
+            "unicode": [
+                "U+1F40B"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐌",
+            "keywords": "snail",
+            "name": "snail",
+            "unified": "1F40C",
+            "unicode": [
+                "U+1F40C"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐍",
+            "keywords": "bearer | Ophiuchus | serpent | snake | zodiac",
+            "name": "snake",
+            "unified": "1F40D",
+            "unicode": [
+                "U+1F40D"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐎",
+            "keywords": "equestrian | horse | racehorse | racing",
+            "name": "horse",
+            "unified": "1F40E",
+            "unicode": [
+                "U+1F40E"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐏",
+            "keywords": "Aries | male | ram | sheep | zodiac",
+            "name": "ram",
+            "unified": "1F40F",
+            "unicode": [
+                "U+1F40F"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐐",
+            "keywords": "Capricorn | goat | zodiac",
+            "name": "goat",
+            "unified": "1F410",
+            "unicode": [
+                "U+1F410"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐑",
+            "keywords": "ewe | female | sheep",
+            "name": "ewe",
+            "unified": "1F411",
+            "unicode": [
+                "U+1F411"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐒",
+            "keywords": "monkey",
+            "name": "monkey",
+            "unified": "1F412",
+            "unicode": [
+                "U+1F412"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐓",
+            "keywords": "bird | rooster",
+            "name": "rooster",
+            "unified": "1F413",
+            "unicode": [
+                "U+1F413"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐔",
+            "keywords": "bird | chicken",
+            "name": "chicken",
+            "unified": "1F414",
+            "unicode": [
+                "U+1F414"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐕",
+            "keywords": "dog | pet",
+            "name": "dog",
+            "unified": "1F415",
+            "unicode": [
+                "U+1F415"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐖",
+            "keywords": "pig | sow",
+            "name": "pig",
+            "unified": "1F416",
+            "unicode": [
+                "U+1F416"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐗",
+            "keywords": "boar | pig",
+            "name": "boar",
+            "unified": "1F417",
+            "unicode": [
+                "U+1F417"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐘",
+            "keywords": "elephant",
+            "name": "elephant",
+            "unified": "1F418",
+            "unicode": [
+                "U+1F418"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐙",
+            "keywords": "octopus",
+            "name": "octopus",
+            "unified": "1F419",
+            "unicode": [
+                "U+1F419"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐚",
+            "keywords": "shell | spiral",
+            "name": "spiral shell",
+            "unified": "1F41A",
+            "unicode": [
+                "U+1F41A"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐛",
+            "keywords": "bug | insect",
+            "name": "bug",
+            "unified": "1F41B",
+            "unicode": [
+                "U+1F41B"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐜",
+            "keywords": "ant | insect",
+            "name": "ant",
+            "unified": "1F41C",
+            "unicode": [
+                "U+1F41C"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐝",
+            "keywords": "bee | honeybee | insect",
+            "name": "honeybee",
+            "unified": "1F41D",
+            "unicode": [
+                "U+1F41D"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐞",
+            "keywords": "beetle | insect | lady beetle | ladybird | ladybug",
+            "name": "lady beetle",
+            "unified": "1F41E",
+            "unicode": [
+                "U+1F41E"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐟",
+            "keywords": "fish | Pisces | zodiac",
+            "name": "fish",
+            "unified": "1F41F",
+            "unicode": [
+                "U+1F41F"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐠",
+            "keywords": "fish | tropical",
+            "name": "tropical fish",
+            "unified": "1F420",
+            "unicode": [
+                "U+1F420"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐡",
+            "keywords": "blowfish | fish",
+            "name": "blowfish",
+            "unified": "1F421",
+            "unicode": [
+                "U+1F421"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐢",
+            "keywords": "terrapin | tortoise | turtle",
+            "name": "turtle",
+            "unified": "1F422",
+            "unicode": [
+                "U+1F422"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐣",
+            "keywords": "baby | bird | chick | hatching",
+            "name": "hatching chick",
+            "unified": "1F423",
+            "unicode": [
+                "U+1F423"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐤",
+            "keywords": "baby | bird | chick",
+            "name": "baby chick",
+            "unified": "1F424",
+            "unicode": [
+                "U+1F424"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐥",
+            "keywords": "baby | bird | chick | front-facing baby chick",
+            "name": "front-facing baby chick",
+            "unified": "1F425",
+            "unicode": [
+                "U+1F425"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐦",
+            "keywords": "bird",
+            "name": "bird",
+            "unified": "1F426",
+            "unicode": [
+                "U+1F426"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐧",
+            "keywords": "bird | penguin",
+            "name": "penguin",
+            "unified": "1F427",
+            "unicode": [
+                "U+1F427"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐨",
+            "keywords": "bear | koala",
+            "name": "koala",
+            "unified": "1F428",
+            "unicode": [
+                "U+1F428"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐩",
+            "keywords": "dog | poodle",
+            "name": "poodle",
+            "unified": "1F429",
+            "unicode": [
+                "U+1F429"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐪",
+            "keywords": "camel | dromedary | hump",
+            "name": "camel",
+            "unified": "1F42A",
+            "unicode": [
+                "U+1F42A"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐫",
+            "keywords": "bactrian | camel | hump | two-hump camel",
+            "name": "two-hump camel",
+            "unified": "1F42B",
+            "unicode": [
+                "U+1F42B"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐬",
+            "keywords": "dolphin | flipper",
+            "name": "dolphin",
+            "unified": "1F42C",
+            "unicode": [
+                "U+1F42C"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐭",
+            "keywords": "face | mouse",
+            "name": "mouse face",
+            "unified": "1F42D",
+            "unicode": [
+                "U+1F42D"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐮",
+            "keywords": "cow | face",
+            "name": "cow face",
+            "unified": "1F42E",
+            "unicode": [
+                "U+1F42E"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐯",
+            "keywords": "face | tiger",
+            "name": "tiger face",
+            "unified": "1F42F",
+            "unicode": [
+                "U+1F42F"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐰",
+            "keywords": "bunny | face | pet | rabbit",
+            "name": "rabbit face",
+            "unified": "1F430",
+            "unicode": [
+                "U+1F430"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐱",
+            "keywords": "cat | face | pet",
+            "name": "cat face",
+            "unified": "1F431",
+            "unicode": [
+                "U+1F431"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐲",
+            "keywords": "dragon | face | fairy tale",
+            "name": "dragon face",
+            "unified": "1F432",
+            "unicode": [
+                "U+1F432"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐳",
+            "keywords": "face | spouting | whale",
+            "name": "spouting whale",
+            "unified": "1F433",
+            "unicode": [
+                "U+1F433"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐴",
+            "keywords": "face | horse",
+            "name": "horse face",
+            "unified": "1F434",
+            "unicode": [
+                "U+1F434"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐵",
+            "keywords": "face | monkey",
+            "name": "monkey face",
+            "unified": "1F435",
+            "unicode": [
+                "U+1F435"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐶",
+            "keywords": "dog | face | pet",
+            "name": "dog face",
+            "unified": "1F436",
+            "unicode": [
+                "U+1F436"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐷",
+            "keywords": "face | pig",
+            "name": "pig face",
+            "unified": "1F437",
+            "unicode": [
+                "U+1F437"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐸",
+            "keywords": "face | frog",
+            "name": "frog face",
+            "unified": "1F438",
+            "unicode": [
+                "U+1F438"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐹",
+            "keywords": "face | hamster | pet",
+            "name": "hamster face",
+            "unified": "1F439",
+            "unicode": [
+                "U+1F439"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐺",
+            "keywords": "face | wolf",
+            "name": "wolf face",
+            "unified": "1F43A",
+            "unicode": [
+                "U+1F43A"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐻",
+            "keywords": "bear | face",
+            "name": "bear face",
+            "unified": "1F43B",
+            "unicode": [
+                "U+1F43B"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐼",
+            "keywords": "face | panda",
+            "name": "panda face",
+            "unified": "1F43C",
+            "unicode": [
+                "U+1F43C"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐽",
+            "keywords": "face | nose | pig",
+            "name": "pig nose",
+            "unified": "1F43D",
+            "unicode": [
+                "U+1F43D"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🐾",
+            "keywords": "feet | paw | paw prints | print",
+            "name": "paw prints",
+            "unified": "1F43E",
+            "unicode": [
+                "U+1F43E"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "💐",
+            "keywords": "bouquet | flower",
+            "name": "bouquet",
+            "unified": "1F490",
+            "unicode": [
+                "U+1F490"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "💮",
+            "keywords": "flower | white flower",
+            "name": "white flower",
+            "unified": "1F4AE",
+            "unicode": [
+                "U+1F4AE"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🥀",
+            "keywords": "flower | wilted",
+            "name": "wilted flower",
+            "unified": "1F940",
+            "unicode": [
+                "U+1F940"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦀",
+            "keywords": "Cancer | crab | zodiac",
+            "name": "crab",
+            "unified": "1F980",
+            "unicode": [
+                "U+1F980"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦁",
+            "keywords": "face | Leo | lion | zodiac",
+            "name": "lion face",
+            "unified": "1F981",
+            "unicode": [
+                "U+1F981"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦂",
+            "keywords": "scorpio | Scorpio | scorpion | zodiac",
+            "name": "scorpion",
+            "unified": "1F982",
+            "unicode": [
+                "U+1F982"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦃",
+            "keywords": "bird | turkey",
+            "name": "turkey",
+            "unified": "1F983",
+            "unicode": [
+                "U+1F983"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦄",
+            "keywords": "face | unicorn",
+            "name": "unicorn face",
+            "unified": "1F984",
+            "unicode": [
+                "U+1F984"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦅",
+            "keywords": "bird | eagle",
+            "name": "eagle",
+            "unified": "1F985",
+            "unicode": [
+                "U+1F985"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦆",
+            "keywords": "bird | duck",
+            "name": "duck",
+            "unified": "1F986",
+            "unicode": [
+                "U+1F986"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦇",
+            "keywords": "bat | vampire",
+            "name": "bat",
+            "unified": "1F987",
+            "unicode": [
+                "U+1F987"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦈",
+            "keywords": "fish | shark",
+            "name": "shark",
+            "unified": "1F988",
+            "unicode": [
+                "U+1F988"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦉",
+            "keywords": "bird | owl | wise",
+            "name": "owl",
+            "unified": "1F989",
+            "unicode": [
+                "U+1F989"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦊",
+            "keywords": "face | fox",
+            "name": "fox face",
+            "unified": "1F98A",
+            "unicode": [
+                "U+1F98A"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦋",
+            "keywords": "butterfly | insect | pretty",
+            "name": "butterfly",
+            "unified": "1F98B",
+            "unicode": [
+                "U+1F98B"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦌",
+            "keywords": "deer",
+            "name": "deer",
+            "unified": "1F98C",
+            "unicode": [
+                "U+1F98C"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦍",
+            "keywords": "gorilla",
+            "name": "gorilla",
+            "unified": "1F98D",
+            "unicode": [
+                "U+1F98D"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦎",
+            "keywords": "lizard | reptile",
+            "name": "lizard",
+            "unified": "1F98E",
+            "unicode": [
+                "U+1F98E"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦏",
+            "keywords": "rhinoceros",
+            "name": "rhinoceros",
+            "unified": "1F98F",
+            "unicode": [
+                "U+1F98F"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦐",
+            "keywords": "food | shellfish | shrimp | small",
+            "name": "shrimp",
+            "unified": "1F990",
+            "unicode": [
+                "U+1F990"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦑",
+            "keywords": "food | molusc | squid",
+            "name": "squid",
+            "unified": "1F991",
+            "unicode": [
+                "U+1F991"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦒",
+            "keywords": "giraffe | spots",
+            "name": "giraffe",
+            "unified": "1F992",
+            "unicode": [
+                "U+1F992"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦓",
+            "keywords": "stripe | zebra",
+            "name": "zebra",
+            "unified": "1F993",
+            "unicode": [
+                "U+1F993"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦔",
+            "keywords": "hedgehog | spiny",
+            "name": "hedgehog",
+            "unified": "1F994",
+            "unicode": [
+                "U+1F994"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦕",
+            "keywords": "brachiosaurus | brontosaurus | diplodocus | sauropod",
+            "name": "sauropod",
+            "unified": "1F995",
+            "unicode": [
+                "U+1F995"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦖",
+            "keywords": "T-Rex | Tyrannosaurus Rex",
+            "name": "T-Rex",
+            "unified": "1F996",
+            "unicode": [
+                "U+1F996"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🦗",
+            "keywords": "cricket | grasshopper | Orthoptera",
+            "name": "cricket",
+            "unified": "1F997",
+            "unicode": [
+                "U+1F997"
+            ],
+            "category": "Animals & Nature",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        }
+    ]
+}

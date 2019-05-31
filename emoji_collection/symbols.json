@@ -1,0 +1,2098 @@
+{
+    "emoji": [
+        {
+            "emoji": "#️⃣",
+            "keywords": "keycap",
+            "name": "keycap: #",
+            "unified": "0023-FE0F-20E3",
+            "unicode": [
+                "U+0023",
+                "U+FE0F",
+                "U+20E3"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": false,
+            "polarity": 0
+        },
+        {
+            "emoji": "*️⃣",
+            "keywords": "keycap",
+            "name": "keycap: *",
+            "unified": "002A-FE0F-20E3",
+            "unicode": [
+                "U+002A",
+                "U+FE0F",
+                "U+20E3"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": false,
+            "polarity": 0
+        },
+        {
+            "emoji": "0️⃣",
+            "keywords": "keycap",
+            "name": "keycap: 0",
+            "unified": "0030-FE0F-20E3",
+            "unicode": [
+                "U+0030",
+                "U+FE0F",
+                "U+20E3"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": false,
+            "polarity": 0
+        },
+        {
+            "emoji": "1️⃣",
+            "keywords": "keycap",
+            "name": "keycap: 1",
+            "unified": "0031-FE0F-20E3",
+            "unicode": [
+                "U+0031",
+                "U+FE0F",
+                "U+20E3"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": false,
+            "polarity": 0
+        },
+        {
+            "emoji": "2️⃣",
+            "keywords": "keycap",
+            "name": "keycap: 2",
+            "unified": "0032-FE0F-20E3",
+            "unicode": [
+                "U+0032",
+                "U+FE0F",
+                "U+20E3"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": false,
+            "polarity": 0
+        },
+        {
+            "emoji": "3️⃣",
+            "keywords": "keycap",
+            "name": "keycap: 3",
+            "unified": "0033-FE0F-20E3",
+            "unicode": [
+                "U+0033",
+                "U+FE0F",
+                "U+20E3"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": false,
+            "polarity": 0
+        },
+        {
+            "emoji": "4️⃣",
+            "keywords": "keycap",
+            "name": "keycap: 4",
+            "unified": "0034-FE0F-20E3",
+            "unicode": [
+                "U+0034",
+                "U+FE0F",
+                "U+20E3"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": false,
+            "polarity": 0
+        },
+        {
+            "emoji": "5️⃣",
+            "keywords": "keycap",
+            "name": "keycap: 5",
+            "unified": "0035-FE0F-20E3",
+            "unicode": [
+                "U+0035",
+                "U+FE0F",
+                "U+20E3"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": false,
+            "polarity": 0
+        },
+        {
+            "emoji": "6️⃣",
+            "keywords": "keycap",
+            "name": "keycap: 6",
+            "unified": "0036-FE0F-20E3",
+            "unicode": [
+                "U+0036",
+                "U+FE0F",
+                "U+20E3"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": false,
+            "polarity": 0
+        },
+        {
+            "emoji": "7️⃣",
+            "keywords": "keycap",
+            "name": "keycap: 7",
+            "unified": "0037-FE0F-20E3",
+            "unicode": [
+                "U+0037",
+                "U+FE0F",
+                "U+20E3"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": false,
+            "polarity": 0
+        },
+        {
+            "emoji": "8️⃣",
+            "keywords": "keycap",
+            "name": "keycap: 8",
+            "unified": "0038-FE0F-20E3",
+            "unicode": [
+                "U+0038",
+                "U+FE0F",
+                "U+20E3"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": false,
+            "polarity": 0
+        },
+        {
+            "emoji": "9️⃣",
+            "keywords": "keycap",
+            "name": "keycap: 9",
+            "unified": "0039-FE0F-20E3",
+            "unicode": [
+                "U+0039",
+                "U+FE0F",
+                "U+20E3"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": false,
+            "polarity": 0
+        },
+        {
+            "emoji": "🆎",
+            "keywords": "ab | AB button (blood type) | blood type",
+            "name": "AB button (blood type)",
+            "unified": "1F18E",
+            "unicode": [
+                "U+1F18E"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🆑",
+            "keywords": "cl | CL button",
+            "name": "CL button",
+            "unified": "1F191",
+            "unicode": [
+                "U+1F191"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🆒",
+            "keywords": "cool | COOL button",
+            "name": "COOL button",
+            "unified": "1F192",
+            "unicode": [
+                "U+1F192"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🆓",
+            "keywords": "free | FREE button",
+            "name": "FREE button",
+            "unified": "1F193",
+            "unicode": [
+                "U+1F193"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🆔",
+            "keywords": "id | ID button | identity",
+            "name": "ID button",
+            "unified": "1F194",
+            "unicode": [
+                "U+1F194"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🆕",
+            "keywords": "new | NEW button",
+            "name": "NEW button",
+            "unified": "1F195",
+            "unicode": [
+                "U+1F195"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🆖",
+            "keywords": "ng | NG button",
+            "name": "NG button",
+            "unified": "1F196",
+            "unicode": [
+                "U+1F196"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🆗",
+            "keywords": "OK | OK button",
+            "name": "OK button",
+            "unified": "1F197",
+            "unicode": [
+                "U+1F197"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🆘",
+            "keywords": "help | sos | SOS button",
+            "name": "SOS button",
+            "unified": "1F198",
+            "unicode": [
+                "U+1F198"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🆙",
+            "keywords": "mark | up | UP! button",
+            "name": "UP! button",
+            "unified": "1F199",
+            "unicode": [
+                "U+1F199"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🆚",
+            "keywords": "versus | vs | VS button",
+            "name": "VS button",
+            "unified": "1F19A",
+            "unicode": [
+                "U+1F19A"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🈁",
+            "keywords": "“here” | Japanese | Japanese “here” button | katakana | ココ",
+            "name": "Japanese “here” button",
+            "unified": "1F201",
+            "unicode": [
+                "U+1F201"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🈚",
+            "keywords": "“free of charge” | ideograph | Japanese | Japanese “free of charge” button | 無",
+            "name": "Japanese “free of charge” button",
+            "unified": "1F21A",
+            "unicode": [
+                "U+1F21A"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🈯",
+            "keywords": "“reserved” | ideograph | Japanese | Japanese “reserved” button | 指",
+            "name": "Japanese “reserved” button",
+            "unified": "1F22F",
+            "unicode": [
+                "U+1F22F"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🈲",
+            "keywords": "“prohibited” | ideograph | Japanese | Japanese “prohibited” button | 禁",
+            "name": "Japanese “prohibited” button",
+            "unified": "1F232",
+            "unicode": [
+                "U+1F232"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🈳",
+            "keywords": "“vacancy” | ideograph | Japanese | Japanese “vacancy” button | 空",
+            "name": "Japanese “vacancy” button",
+            "unified": "1F233",
+            "unicode": [
+                "U+1F233"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🈴",
+            "keywords": "“passing grade” | ideograph | Japanese | Japanese “passing grade” button | 合",
+            "name": "Japanese “passing grade” button",
+            "unified": "1F234",
+            "unicode": [
+                "U+1F234"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🈵",
+            "keywords": "“no vacancy” | ideograph | Japanese | Japanese “no vacancy” button | 満",
+            "name": "Japanese “no vacancy” button",
+            "unified": "1F235",
+            "unicode": [
+                "U+1F235"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🈶",
+            "keywords": "“not free of charge” | ideograph | Japanese | Japanese “not free of charge” button | 有",
+            "name": "Japanese “not free of charge” button",
+            "unified": "1F236",
+            "unicode": [
+                "U+1F236"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🈸",
+            "keywords": "“application” | ideograph | Japanese | Japanese “application” button | 申",
+            "name": "Japanese “application” button",
+            "unified": "1F238",
+            "unicode": [
+                "U+1F238"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🈹",
+            "keywords": "“discount” | ideograph | Japanese | Japanese “discount” button | 割",
+            "name": "Japanese “discount” button",
+            "unified": "1F239",
+            "unicode": [
+                "U+1F239"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🈺",
+            "keywords": "“open for business” | ideograph | Japanese | Japanese “open for business” button | 営",
+            "name": "Japanese “open for business” button",
+            "unified": "1F23A",
+            "unicode": [
+                "U+1F23A"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🉐",
+            "keywords": "“bargain” | ideograph | Japanese | Japanese “bargain” button | 得",
+            "name": "Japanese “bargain” button",
+            "unified": "1F250",
+            "unicode": [
+                "U+1F250"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🉑",
+            "keywords": "“acceptable” | ideograph | Japanese | Japanese “acceptable” button | 可",
+            "name": "Japanese “acceptable” button",
+            "unified": "1F251",
+            "unicode": [
+                "U+1F251"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🎦",
+            "keywords": "camera | cinema | film | movie",
+            "name": "cinema",
+            "unified": "1F3A6",
+            "unicode": [
+                "U+1F3A6"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🏧",
+            "keywords": "atm | ATM sign | automated | bank | teller",
+            "name": "ATM sign",
+            "unified": "1F3E7",
+            "unicode": [
+                "U+1F3E7"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "💠",
+            "keywords": "comic | diamond | diamond with a dot | geometric | inside",
+            "name": "diamond with a dot",
+            "unified": "1F4A0",
+            "unicode": [
+                "U+1F4A0"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "💯",
+            "keywords": "100 | full | hundred | hundred points | score",
+            "name": "hundred points",
+            "unified": "1F4AF",
+            "unicode": [
+                "U+1F4AF"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 3
+        },
+        {
+            "emoji": "📛",
+            "keywords": "badge | name",
+            "name": "name badge",
+            "unified": "1F4DB",
+            "unicode": [
+                "U+1F4DB"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "📳",
+            "keywords": "cell | mobile | mode | phone | telephone | vibration",
+            "name": "vibration mode",
+            "unified": "1F4F3",
+            "unicode": [
+                "U+1F4F3"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "📴",
+            "keywords": "cell | mobile | off | phone | telephone",
+            "name": "mobile phone off",
+            "unified": "1F4F4",
+            "unicode": [
+                "U+1F4F4"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "📵",
+            "keywords": "cell | forbidden | mobile | no | no mobile phones | phone",
+            "name": "no mobile phones",
+            "unified": "1F4F5",
+            "unicode": [
+                "U+1F4F5"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "📶",
+            "keywords": "antenna | antenna bars | bar | cell | mobile | phone",
+            "name": "antenna bars",
+            "unified": "1F4F6",
+            "unicode": [
+                "U+1F4F6"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔀",
+            "keywords": "arrow | crossed | shuffle tracks button",
+            "name": "shuffle tracks button",
+            "unified": "1F500",
+            "unicode": [
+                "U+1F500"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔁",
+            "keywords": "arrow | clockwise | repeat | repeat button",
+            "name": "repeat button",
+            "unified": "1F501",
+            "unicode": [
+                "U+1F501"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔂",
+            "keywords": "arrow | clockwise | once | repeat single button",
+            "name": "repeat single button",
+            "unified": "1F502",
+            "unicode": [
+                "U+1F502"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔃",
+            "keywords": "arrow | clockwise | clockwise vertical arrows | reload",
+            "name": "clockwise vertical arrows",
+            "unified": "1F503",
+            "unicode": [
+                "U+1F503"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔄",
+            "keywords": "anticlockwise | arrow | counterclockwise | counterclockwise arrows button | withershins",
+            "name": "counterclockwise arrows button",
+            "unified": "1F504",
+            "unicode": [
+                "U+1F504"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔅",
+            "keywords": "brightness | dim | dim button | low",
+            "name": "dim button",
+            "unified": "1F505",
+            "unicode": [
+                "U+1F505"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔆",
+            "keywords": "bright | bright button | brightness",
+            "name": "bright button",
+            "unified": "1F506",
+            "unicode": [
+                "U+1F506"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔘",
+            "keywords": "button | geometric | radio",
+            "name": "radio button",
+            "unified": "1F518",
+            "unicode": [
+                "U+1F518"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔙",
+            "keywords": "arrow | back | BACK arrow",
+            "name": "BACK arrow",
+            "unified": "1F519",
+            "unicode": [
+                "U+1F519"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔚",
+            "keywords": "arrow | end | END arrow",
+            "name": "END arrow",
+            "unified": "1F51A",
+            "unicode": [
+                "U+1F51A"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔛",
+            "keywords": "arrow | mark | on | ON! arrow",
+            "name": "ON! arrow",
+            "unified": "1F51B",
+            "unicode": [
+                "U+1F51B"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔜",
+            "keywords": "arrow | soon | SOON arrow",
+            "name": "SOON arrow",
+            "unified": "1F51C",
+            "unicode": [
+                "U+1F51C"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔝",
+            "keywords": "arrow | top | TOP arrow | up",
+            "name": "TOP arrow",
+            "unified": "1F51D",
+            "unicode": [
+                "U+1F51D"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔞",
+            "keywords": "18 | age restriction | eighteen | no one under eighteen | prohibited | underage",
+            "name": "no one under eighteen",
+            "unified": "1F51E",
+            "unicode": [
+                "U+1F51E"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔟",
+            "keywords": "keycap",
+            "name": "keycap: 10",
+            "unified": "1F51F",
+            "unicode": [
+                "U+1F51F"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔠",
+            "keywords": "ABCD | input | latin | letters | uppercase",
+            "name": "input latin uppercase",
+            "unified": "1F520",
+            "unicode": [
+                "U+1F520"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔡",
+            "keywords": "abcd | input | latin | letters | lowercase",
+            "name": "input latin lowercase",
+            "unified": "1F521",
+            "unicode": [
+                "U+1F521"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔢",
+            "keywords": "1234 | input | numbers",
+            "name": "input numbers",
+            "unified": "1F522",
+            "unicode": [
+                "U+1F522"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔣",
+            "keywords": "〒♪&% | input | input symbols",
+            "name": "input symbols",
+            "unified": "1F523",
+            "unicode": [
+                "U+1F523"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔤",
+            "keywords": "abc | alphabet | input | latin | letters",
+            "name": "input latin letters",
+            "unified": "1F524",
+            "unicode": [
+                "U+1F524"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔯",
+            "keywords": "dotted six-pointed star | fortune | star",
+            "name": "dotted six-pointed star",
+            "unified": "1F52F",
+            "unicode": [
+                "U+1F52F"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔰",
+            "keywords": "beginner | chevron | Japanese | Japanese symbol for beginner | leaf",
+            "name": "Japanese symbol for beginner",
+            "unified": "1F530",
+            "unicode": [
+                "U+1F530"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔱",
+            "keywords": "anchor | emblem | ship | tool | trident",
+            "name": "trident emblem",
+            "unified": "1F531",
+            "unicode": [
+                "U+1F531"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔲",
+            "keywords": "black square button | button | geometric | square",
+            "name": "black square button",
+            "unified": "1F532",
+            "unicode": [
+                "U+1F532"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔳",
+            "keywords": "button | geometric | outlined | square | white square button",
+            "name": "white square button",
+            "unified": "1F533",
+            "unicode": [
+                "U+1F533"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔴",
+            "keywords": "circle | geometric | red",
+            "name": "red circle",
+            "unified": "1F534",
+            "unicode": [
+                "U+1F534"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔵",
+            "keywords": "blue | circle | geometric",
+            "name": "blue circle",
+            "unified": "1F535",
+            "unicode": [
+                "U+1F535"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔶",
+            "keywords": "diamond | geometric | large orange diamond | orange",
+            "name": "large orange diamond",
+            "unified": "1F536",
+            "unicode": [
+                "U+1F536"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔷",
+            "keywords": "blue | diamond | geometric | large blue diamond",
+            "name": "large blue diamond",
+            "unified": "1F537",
+            "unicode": [
+                "U+1F537"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔸",
+            "keywords": "diamond | geometric | orange | small orange diamond",
+            "name": "small orange diamond",
+            "unified": "1F538",
+            "unicode": [
+                "U+1F538"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔹",
+            "keywords": "blue | diamond | geometric | small blue diamond",
+            "name": "small blue diamond",
+            "unified": "1F539",
+            "unicode": [
+                "U+1F539"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔺",
+            "keywords": "geometric | red | red triangle pointed up",
+            "name": "red triangle pointed up",
+            "unified": "1F53A",
+            "unicode": [
+                "U+1F53A"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔻",
+            "keywords": "down | geometric | red | red triangle pointed down",
+            "name": "red triangle pointed down",
+            "unified": "1F53B",
+            "unicode": [
+                "U+1F53B"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔼",
+            "keywords": "arrow | button | red | upwards button",
+            "name": "upwards button",
+            "unified": "1F53C",
+            "unicode": [
+                "U+1F53C"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🔽",
+            "keywords": "arrow | button | down | downwards button | red",
+            "name": "downwards button",
+            "unified": "1F53D",
+            "unicode": [
+                "U+1F53D"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🕎",
+            "keywords": "candelabrum | candlestick | menorah | religion",
+            "name": "menorah",
+            "unified": "1F54E",
+            "unicode": [
+                "U+1F54E"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🚫",
+            "keywords": "entry | forbidden | no | not | prohibited",
+            "name": "prohibited",
+            "unified": "1F6AB",
+            "unicode": [
+                "U+1F6AB"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🚭",
+            "keywords": "forbidden | no | not | prohibited | smoking",
+            "name": "no smoking",
+            "unified": "1F6AD",
+            "unicode": [
+                "U+1F6AD"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🚮",
+            "keywords": "litter | litter bin | litter in bin sign",
+            "name": "litter in bin sign",
+            "unified": "1F6AE",
+            "unicode": [
+                "U+1F6AE"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🚯",
+            "keywords": "forbidden | litter | no | no littering | not | prohibited",
+            "name": "no littering",
+            "unified": "1F6AF",
+            "unicode": [
+                "U+1F6AF"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🚰",
+            "keywords": "drinking | potable | water",
+            "name": "potable water",
+            "unified": "1F6B0",
+            "unicode": [
+                "U+1F6B0"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🚱",
+            "keywords": "non-drinking | non-potable | water",
+            "name": "non-potable water",
+            "unified": "1F6B1",
+            "unicode": [
+                "U+1F6B1"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🚳",
+            "keywords": "bicycle | bike | forbidden | no | no bicycles | prohibited",
+            "name": "no bicycles",
+            "unified": "1F6B3",
+            "unicode": [
+                "U+1F6B3"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🚷",
+            "keywords": "forbidden | no | no pedestrians | not | pedestrian | prohibited",
+            "name": "no pedestrians",
+            "unified": "1F6B7",
+            "unicode": [
+                "U+1F6B7"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🚸",
+            "keywords": "child | children crossing | crossing | pedestrian | traffic",
+            "name": "children crossing",
+            "unified": "1F6B8",
+            "unicode": [
+                "U+1F6B8"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🚹",
+            "keywords": "lavatory | man | men’s room | restroom | wc",
+            "name": "men’s room",
+            "unified": "1F6B9",
+            "unicode": [
+                "U+1F6B9"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🚺",
+            "keywords": "lavatory | restroom | wc | woman | women’s room",
+            "name": "women’s room",
+            "unified": "1F6BA",
+            "unicode": [
+                "U+1F6BA"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🚻",
+            "keywords": "lavatory | restroom | WC",
+            "name": "restroom",
+            "unified": "1F6BB",
+            "unicode": [
+                "U+1F6BB"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🚼",
+            "keywords": "baby | baby symbol | changing",
+            "name": "baby symbol",
+            "unified": "1F6BC",
+            "unicode": [
+                "U+1F6BC"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🚾",
+            "keywords": "closet | lavatory | restroom | water | wc",
+            "name": "water closet",
+            "unified": "1F6BE",
+            "unicode": [
+                "U+1F6BE"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🛂",
+            "keywords": "control | passport",
+            "name": "passport control",
+            "unified": "1F6C2",
+            "unicode": [
+                "U+1F6C2"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🛃",
+            "keywords": "customs",
+            "name": "customs",
+            "unified": "1F6C3",
+            "unicode": [
+                "U+1F6C3"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🛄",
+            "keywords": "baggage | claim",
+            "name": "baggage claim",
+            "unified": "1F6C4",
+            "unicode": [
+                "U+1F6C4"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🛅",
+            "keywords": "baggage | left luggage | locker | luggage",
+            "name": "left luggage",
+            "unified": "1F6C5",
+            "unicode": [
+                "U+1F6C5"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "🛐",
+            "keywords": "place of worship | religion | worship",
+            "name": "place of worship",
+            "unified": "1F6D0",
+            "unicode": [
+                "U+1F6D0"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "⏩",
+            "keywords": "arrow | double | fast | fast-forward button | forward",
+            "name": "fast-forward button",
+            "unified": "23E9",
+            "unicode": [
+                "U+23E9"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "⏪",
+            "keywords": "arrow | double | fast reverse button | rewind",
+            "name": "fast reverse button",
+            "unified": "23EA",
+            "unicode": [
+                "U+23EA"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "⏫",
+            "keywords": "arrow | double | fast up button",
+            "name": "fast up button",
+            "unified": "23EB",
+            "unicode": [
+                "U+23EB"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "⏬",
+            "keywords": "arrow | double | down | fast down button",
+            "name": "fast down button",
+            "unified": "23EC",
+            "unicode": [
+                "U+23EC"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "◽",
+            "keywords": "geometric | square | white medium-small square",
+            "name": "white medium-small square",
+            "unified": "25FD",
+            "unicode": [
+                "U+25FD"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "◾",
+            "keywords": "black medium-small square | geometric | square",
+            "name": "black medium-small square",
+            "unified": "25FE",
+            "unicode": [
+                "U+25FE"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "♈",
+            "keywords": "Aries | ram | zodiac",
+            "name": "Aries",
+            "unified": "2648",
+            "unicode": [
+                "U+2648"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "♉",
+            "keywords": "bull | ox | Taurus | zodiac",
+            "name": "Taurus",
+            "unified": "2649",
+            "unicode": [
+                "U+2649"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "♊",
+            "keywords": "Gemini | twins | zodiac",
+            "name": "Gemini",
+            "unified": "264A",
+            "unicode": [
+                "U+264A"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "♋",
+            "keywords": "Cancer | crab | zodiac",
+            "name": "Cancer",
+            "unified": "264B",
+            "unicode": [
+                "U+264B"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "♌",
+            "keywords": "Leo | lion | zodiac",
+            "name": "Leo",
+            "unified": "264C",
+            "unicode": [
+                "U+264C"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "♍",
+            "keywords": "Virgo | zodiac",
+            "name": "Virgo",
+            "unified": "264D",
+            "unicode": [
+                "U+264D"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "♎",
+            "keywords": "balance | justice | Libra | scales | zodiac",
+            "name": "Libra",
+            "unified": "264E",
+            "unicode": [
+                "U+264E"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "♏",
+            "keywords": "Scorpio | scorpion | scorpius | zodiac",
+            "name": "Scorpio",
+            "unified": "264F",
+            "unicode": [
+                "U+264F"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "♐",
+            "keywords": "archer | Sagittarius | zodiac",
+            "name": "Sagittarius",
+            "unified": "2650",
+            "unicode": [
+                "U+2650"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "♑",
+            "keywords": "Capricorn | goat | zodiac",
+            "name": "Capricorn",
+            "unified": "2651",
+            "unicode": [
+                "U+2651"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "♒",
+            "keywords": "Aquarius | bearer | water | zodiac",
+            "name": "Aquarius",
+            "unified": "2652",
+            "unicode": [
+                "U+2652"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "♓",
+            "keywords": "fish | Pisces | zodiac",
+            "name": "Pisces",
+            "unified": "2653",
+            "unicode": [
+                "U+2653"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "♿",
+            "keywords": "access | wheelchair symbol",
+            "name": "wheelchair symbol",
+            "unified": "267F",
+            "unicode": [
+                "U+267F"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "⚪",
+            "keywords": "circle | geometric | white circle",
+            "name": "white circle",
+            "unified": "26AA",
+            "unicode": [
+                "U+26AA"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "⚫",
+            "keywords": "black circle | circle | geometric",
+            "name": "black circle",
+            "unified": "26AB",
+            "unicode": [
+                "U+26AB"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "⛎",
+            "keywords": "bearer | Ophiuchus | serpent | snake | zodiac",
+            "name": "Ophiuchus",
+            "unified": "26CE",
+            "unicode": [
+                "U+26CE"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "⛔",
+            "keywords": "entry | forbidden | no | not | prohibited | traffic",
+            "name": "no entry",
+            "unified": "26D4",
+            "unicode": [
+                "U+26D4"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "✅",
+            "keywords": "check | mark | white heavy check mark",
+            "name": "white heavy check mark",
+            "unified": "2705",
+            "unicode": [
+                "U+2705"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "❌",
+            "keywords": "cancel | cross mark | mark | multiplication | multiply | x",
+            "name": "cross mark",
+            "unified": "274C",
+            "unicode": [
+                "U+274C"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "❎",
+            "keywords": "cross mark button | mark | square",
+            "name": "cross mark button",
+            "unified": "274E",
+            "unicode": [
+                "U+274E"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "❓",
+            "keywords": "mark | punctuation | question",
+            "name": "question mark",
+            "unified": "2753",
+            "unicode": [
+                "U+2753"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "❔",
+            "keywords": "mark | outlined | punctuation | question | white question mark",
+            "name": "white question mark",
+            "unified": "2754",
+            "unicode": [
+                "U+2754"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "❕",
+            "keywords": "exclamation | mark | outlined | punctuation | white exclamation mark",
+            "name": "white exclamation mark",
+            "unified": "2755",
+            "unicode": [
+                "U+2755"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "❗",
+            "keywords": "exclamation | mark | punctuation",
+            "name": "exclamation mark",
+            "unified": "2757",
+            "unicode": [
+                "U+2757"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "➕",
+            "keywords": "heavy plus sign | math | plus",
+            "name": "heavy plus sign",
+            "unified": "2795",
+            "unicode": [
+                "U+2795"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "➖",
+            "keywords": "heavy minus sign | math | minus",
+            "name": "heavy minus sign",
+            "unified": "2796",
+            "unicode": [
+                "U+2796"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "➗",
+            "keywords": "division | heavy division sign | math",
+            "name": "heavy division sign",
+            "unified": "2797",
+            "unicode": [
+                "U+2797"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "➰",
+            "keywords": "curl | curly loop | loop",
+            "name": "curly loop",
+            "unified": "27B0",
+            "unicode": [
+                "U+27B0"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "➿",
+            "keywords": "curl | double | double curly loop | loop",
+            "name": "double curly loop",
+            "unified": "27BF",
+            "unicode": [
+                "U+27BF"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "⬛",
+            "keywords": "black large square | geometric | square",
+            "name": "black large square",
+            "unified": "2B1B",
+            "unicode": [
+                "U+2B1B"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "⬜",
+            "keywords": "geometric | square | white large square",
+            "name": "white large square",
+            "unified": "2B1C",
+            "unicode": [
+                "U+2B1C"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        },
+        {
+            "emoji": "⭕",
+            "keywords": "circle | heavy large circle | o",
+            "name": "heavy large circle",
+            "unified": "2B55",
+            "unicode": [
+                "U+2B55"
+            ],
+            "category": "Symbols",
+            "has_img_apple": true,
+            "has_img_google": true,
+            "has_img_twitter": true,
+            "has_img_facebook": true,
+            "polarity": 0
+        }
+    ]
+}
